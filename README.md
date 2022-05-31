@@ -1,5 +1,7 @@
 # Frontend Mentor - Loopstudios landing page
 
+[Live site](https://maxdeb1.github.io/loopstudios-landing-page/)
+
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
